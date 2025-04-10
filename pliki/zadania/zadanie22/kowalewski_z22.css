@@ -1,0 +1,17 @@
+/* Adam Kowalewski 31.03.2025 */
+p {
+    color: red;
+    font-size: 22pt;
+}
+
+p#gruby_kowalewski {
+    color: green;
+    font-size: 17pt;
+    font-weight: bold;
+}
+
+#dlawszystkich_kowalewski {
+    color: yellow;
+    font-size: 10pt;
+    font-family: Arial;
+}
